@@ -1,7 +1,7 @@
 
 """
 This is a simple school project by Vitezslav Kremlik
-contact: kremlik@seznam.cz
+contact: kremlik@seznam.cz 
 
 It is a database management app with a Graphic User Interface.
 It uploads and administers a csv file.
